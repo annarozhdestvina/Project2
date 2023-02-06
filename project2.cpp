@@ -1,8 +1,9 @@
 #include <iostream>
 
-using namespace std;
-
 int main() {
+
+    using namespace std;
+
     setlocale(LC_ALL, "Russian");
     std::cout << "оатмоат" << std::endl;
     std::cout << "оатмоат" << std::endl;
